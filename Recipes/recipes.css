@@ -1,0 +1,34 @@
+
+
+.food{
+    border-radius:50%;
+    border:solid black;
+    height:500px;
+    width:500px
+}
+.instructions{
+    padding:50px;
+    margin-left: auto;
+    margin-right: auto;
+    width:800px;   
+    
+}
+.recipe{
+    display:flex;
+    flex-flow:column;
+    align-items:center;
+    font-family:'Comic Sans MS';
+    padding:20px;
+    margin:auto;
+    margin-top:30px;
+    margin-bottom:30px;
+}
+footer{
+    margin:auto;
+    margin-bottom:0;
+    padding:20px;
+    font-weight:800;
+}
+h2{
+    color:rgb(194, 0, 0);
+}
